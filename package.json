@@ -7,13 +7,13 @@
     "test": "./node_modules/.bin/mocha",
     "build": "gulp"
   },
-  "author": "QingFeng Shan <sqf1225@foxmail.com>",
+  "author": "Tian Xie <xietian0801@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "bignumber": "https://github.com/AschPlatform/bignumber/tarball/master",
+    "bignumber": "https://github.com/AosPlatform/bignumber/tarball/master",
     "change-case": "3.0.0",
-    "json-sql": "https://github.com/AschPlatform/json-sql/tarball/master",
+    "json-sql": "https://github.com/AosPlatform/json-sql/tarball/master",
     "tracer": "^0.8.11",
     "validate.js": "^0.12.0"
   },
