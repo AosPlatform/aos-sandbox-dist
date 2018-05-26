@@ -1,7 +1,7 @@
 {
-  "name": "asch-sandbox",
+  "name": "aos-sandbox",
   "version": "1.0.0",
-  "description": "asch sandbox which is used to run sidechain dapps",
+  "description": "aos sandbox which is used to run sidechain dapps",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha",
